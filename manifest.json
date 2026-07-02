@@ -1,6 +1,6 @@
 {
-  "note": "Listen Labs brand image library. Prepend IMG_BASE to `path` to build a URL. IMG_BASE (jsDelivr): https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@main/",
-  "img_base": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@main/",
+  "note": "Listen Labs brand image library. Prepend IMG_BASE to `path` to build a URL. IMG_BASE (jsDelivr): https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v1/",
+  "img_base": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v1/",
   "count": 148,
   "images": [
     {
