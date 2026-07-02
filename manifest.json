@@ -1,0 +1,1043 @@
+{
+  "note": "Listen Labs brand image library. Prepend IMG_BASE to `path` to build a URL. IMG_BASE (jsDelivr): https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@main/",
+  "img_base": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@main/",
+  "count": 148,
+  "images": [
+    {
+      "path": "LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_13-38-56.webp",
+      "category": "misc",
+      "sub": "",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_13-56-36.webp",
+      "category": "misc",
+      "sub": "",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_travel/_researchers/image-1-16x9.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_travel/_researchers/image-1-4x5.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "4x5"
+    },
+    {
+      "path": "_travel/_researchers/image-2-16x9.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_travel/_researchers/image-2-1x1.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_researchers/image-3-16x9.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_travel/_researchers/image-3-1x1.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_researchers/image-4-16x9.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_travel/_researchers/image-4-1x1.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_researchers/image-5-16x9.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_travel/_researchers/image-5-1x1.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_researchers/image-6-16x9.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_travel/_researchers/image-6-1x1.webp",
+      "category": "travel",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_airline-environment/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_05-27-40.webp",
+      "category": "travel",
+      "sub": "airline-environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_travel/_airline-environment/LL Environment Images_TL 1x1_2026-06-23_05-28-13.webp",
+      "category": "travel",
+      "sub": "airline-environment",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_airline-environment/LL Environment Images_TR 1x1_2026-06-23_05-28-16.webp",
+      "category": "travel",
+      "sub": "airline-environment",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_hotel-environment/LL Environment Images_BL 1x1_2026-06-23_15-39-03.webp",
+      "category": "travel",
+      "sub": "hotel-environment",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_hotel-environment/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-38-41.webp",
+      "category": "travel",
+      "sub": "hotel-environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_travel/_hotel-environment/LL Environment Images_TL 1x1_2026-06-23_15-39-07.webp",
+      "category": "travel",
+      "sub": "hotel-environment",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_travel/_hotel-environment/LL Environment Images_TR 1x1_2026-06-23_15-39-19.webp",
+      "category": "travel",
+      "sub": "hotel-environment",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_realestate/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-47-00.webp",
+      "category": "realestate",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-47-20.webp",
+      "category": "realestate",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-47-25.webp",
+      "category": "realestate",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-50-56.webp",
+      "category": "realestate",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_environments/LL Environment Images_TL 1x1_2026-06-23_15-48-05.webp",
+      "category": "realestate",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_realestate/_environments/LL Environment Images_TR 1x1_2026-06-23_15-48-09.webp",
+      "category": "realestate",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-59-37.webp",
+      "category": "realestate",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-59-43.webp",
+      "category": "realestate",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-59-57.webp",
+      "category": "realestate",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-03-44.webp",
+      "category": "realestate",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-05-43.webp",
+      "category": "realestate",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-05-47.webp",
+      "category": "realestate",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_realestate/_researchers/LL Research Images_TL 16x9_2026-06-24_05-53-02.webp",
+      "category": "realestate",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_realestate/_researchers/LL Research Images_TL 1x1_2026-06-24_05-53-15.webp",
+      "category": "realestate",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_healthcare/image-1-16x9.webp",
+      "category": "healthcare",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_healthcare/image-1-1x1.webp",
+      "category": "healthcare",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_healthcare/image-2-16x9.webp",
+      "category": "healthcare",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_healthcare/image-2-1x1.webp",
+      "category": "healthcare",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_healthcare/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-33-50.webp",
+      "category": "healthcare",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_healthcare/_environments/LL Environment Images_TL 1x1_2026-06-23_15-33-33.webp",
+      "category": "healthcare",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_healthcare/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-14-28.webp",
+      "category": "healthcare",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_healthcare/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-14-32.webp",
+      "category": "healthcare",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_healthcare/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-37-15.webp",
+      "category": "healthcare",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_healthcare/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-37-20.webp",
+      "category": "healthcare",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_healthcare/_researchers/LL Research Images_TL 16x9_2026-06-24_05-13-30.webp",
+      "category": "healthcare",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_healthcare/_researchers/LL Research Images_TL 1x1_2026-06-24_05-13-40.webp",
+      "category": "healthcare",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_foodbev/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_0010 copy.webp",
+      "category": "foodbev",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_foodbev/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_0010.webp",
+      "category": "foodbev",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_foodbev/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-22_18-39-02.webp",
+      "category": "foodbev",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_foodbev/_environments/LL Environment Images_TL 1x1_2026-06-22_18-39-27.webp",
+      "category": "foodbev",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_automotive/_researchers/image-3-16x9.webp",
+      "category": "automotive",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_automotive/_researchers/image-4-16x9.webp",
+      "category": "automotive",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_automotive/_researchers/image-4-1x1.webp",
+      "category": "automotive",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_automotive/_researchers/image-5-1x1.webp",
+      "category": "automotive",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_automotive/_researchers/image-6-16x9.webp",
+      "category": "automotive",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_automotive/_researchers/image-6-1x1.webp",
+      "category": "automotive",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_automotive/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_05-36-47.webp",
+      "category": "automotive",
+      "sub": "environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_automotive/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_05-37-09.webp",
+      "category": "automotive",
+      "sub": "environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_music/image-1-16x9.webp",
+      "category": "music",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_music/image-1-1x1.webp",
+      "category": "music",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_music/image-2-16x9.webp",
+      "category": "music",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_music/image-2-1x1.webp",
+      "category": "music",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_banking/_researchers/LL Research Images_TL 16x9_2026-06-23_17-12-20.webp",
+      "category": "banking",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_banking/_researchers/LL Research Images_TL 1x1_2026-06-23_17-12-09.webp",
+      "category": "banking",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_banking/_researchers/LL Research Images_TR 16x9_2026-06-23_17-12-30.webp",
+      "category": "banking",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_banking/_researchers/LL Research Images_TR 1x1_2026-06-23_17-12-25.webp",
+      "category": "banking",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_banking/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_0006 copy 2.webp",
+      "category": "banking",
+      "sub": "environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_banking/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_0006 copy.webp",
+      "category": "banking",
+      "sub": "environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_banking/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_0006.webp",
+      "category": "banking",
+      "sub": "environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_banking/_environment/image-1.webp",
+      "category": "banking",
+      "sub": "environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_banking/_environment/image-2.webp",
+      "category": "banking",
+      "sub": "environment",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_14-21-50.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_14-27-39.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_14-31-56.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_14-33-25.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_14cf6f4d-4d33-49f5-b2d4-bb8a094772f9_3.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_1a8722f1-a9a8-489f-b443-6b29f9d73112_2.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_326aeed4-7726-4847-bab7-1b7a4ebe7a3e_0.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_32e7aa58-4812-4de9-8efa-f2eead480070_0.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_3ed3bae4-1794-429f-bee3-069392229d00_3.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_af3293ee-45cd-4bcb-b632-9b2e092779af_1.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_be36f457-aef1-4cd5-bad0-8b38bc223d82_2.webp",
+      "category": "oracle",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_retail/_environments/LL Environment Images_TL 1x1_2026-06-23_15-55-40.webp",
+      "category": "retail",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_retail/_environments/LL Environment Images_TR 1x1_2026-06-23_15-55-46.webp",
+      "category": "retail",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-28-10.webp",
+      "category": "retail",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-29-43.webp",
+      "category": "retail",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-29-47.webp",
+      "category": "retail",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-33-29.webp",
+      "category": "retail",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-34-11.webp",
+      "category": "retail",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_beauty/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-02-54.webp",
+      "category": "beauty",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_beauty/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-04-41.webp",
+      "category": "beauty",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_beauty/_environments/LL Environment Images_TL 1x1_2026-06-23_15-02-29.webp",
+      "category": "beauty",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_beauty/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-34-42.webp",
+      "category": "beauty",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_beauty/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-34-53.webp",
+      "category": "beauty",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_beauty/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-38-41.webp",
+      "category": "beauty",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_beauty/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-38-46.webp",
+      "category": "beauty",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_beauty/_researchers/LL Research Images_TL 16x9_2026-06-24_03-35-19.webp",
+      "category": "beauty",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_beauty/_researchers/LL Research Images_TL 1x1_2026-06-24_03-35-37.webp",
+      "category": "beauty",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_beauty/_researchers/LL Research Images_TR 16x9_2026-06-24_03-35-45.webp",
+      "category": "beauty",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_beauty/_researchers/LL Research Images_TR 1x1_2026-06-24_03-35-48.webp",
+      "category": "beauty",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_consumer/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-09-26.webp",
+      "category": "consumer",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-09-51.webp",
+      "category": "consumer",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-10-12.webp",
+      "category": "consumer",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-48-37.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-48-48.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-48-52.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-48-55.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-49-04.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-49-08.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-57-44.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-58-07.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_TL 16x9_2026-06-24_03-58-14.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_consumer/_researchers/LL Research Images_TL 1x1_2026-06-24_03-58-17.webp",
+      "category": "consumer",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_signature/image-1-16x9.webp",
+      "category": "signature",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_signature/image-1-16x9b.webp",
+      "category": "signature",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_signature/image-2-16x9.webp",
+      "category": "signature",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_signature/image-3-16x9.webp",
+      "category": "signature",
+      "sub": "",
+      "kind": "scene",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_fintech/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-22_18-24-03.webp",
+      "category": "fintech",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_fintech/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-22_18-26-21.webp",
+      "category": "fintech",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-57-02.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-58-35.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-01-17.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-03-53.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-04-12.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_TL 16x9_2026-06-24_05-02-52.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_TL 1x1_2026-06-24_05-02-49.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_TR 16x9_2026-06-24_04-57-45.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_fintech/_researchers/LL Research Images_TR 1x1_2026-06-24_04-57-41.webp",
+      "category": "fintech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_cpg/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-20-49.webp",
+      "category": "cpg",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_cpg/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-28-48.webp",
+      "category": "cpg",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_cpg/_environments/LL Environment Images_TL 1x1_2026-06-23_15-20-41.webp",
+      "category": "cpg",
+      "sub": "environments",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-14-32.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-14-36.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-22-05.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-22-09.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-22-13.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_cpg/_researchers/LL Research Images_TL 1x1_2026-06-24_04-27-12.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_cpg/_researchers/image-1-16x9.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "16x9"
+    },
+    {
+      "path": "_cpg/_researchers/image-1-4x5.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "4x5"
+    },
+    {
+      "path": "_cpg/_researchers/image-1-4x5b.webp",
+      "category": "cpg",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "4x5"
+    },
+    {
+      "path": "_tech/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_16-10-19.webp",
+      "category": "tech",
+      "sub": "",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_tech/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_16-10-24.webp",
+      "category": "tech",
+      "sub": "",
+      "kind": "environment",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_tech/LL Environment Images_TL 1x1_2026-06-23_16-10-00.webp",
+      "category": "tech",
+      "sub": "",
+      "kind": "environment",
+      "aspect": "1x1"
+    },
+    {
+      "path": "_tech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_16-02-38.webp",
+      "category": "tech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_tech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_16-02-49.webp",
+      "category": "tech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_tech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_16-03-11.webp",
+      "category": "tech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    },
+    {
+      "path": "_tech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_16-03-18.webp",
+      "category": "tech",
+      "sub": "researchers",
+      "kind": "researcher",
+      "aspect": "unknown"
+    }
+  ]
+}
