@@ -1,1043 +1,1191 @@
 {
-  "note": "Listen Labs brand image library. Prepend IMG_BASE to `path` to build a URL. IMG_BASE (jsDelivr): https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v1/",
-  "img_base": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v1/",
+  "note": "Listen Labs brand image library. Use each image's `url` field VERBATIM as the src. Filenames are clean (lowercase, no spaces), named {category}-{descriptor}-{aspect}. Filter by `category` (industry), `kind` (researcher=people, environment=places, object=hero product/concept shots), and `aspect`. IMG_BASE (jsDelivr): https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/",
+  "img_base": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/",
   "count": 148,
   "images": [
     {
-      "path": "LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_13-38-56.webp",
+      "path": "automotive/automotive-car-key-fob-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/automotive/automotive-car-key-fob-1x1-2.webp",
+      "category": "automotive",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "car-key-fob"
+    },
+    {
+      "path": "automotive/automotive-car-key-fob-1x1-3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/automotive/automotive-car-key-fob-1x1-3.webp",
+      "category": "automotive",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "car-key-fob"
+    },
+    {
+      "path": "automotive/automotive-car-key-fob-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/automotive/automotive-car-key-fob-1x1.webp",
+      "category": "automotive",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "car-key-fob"
+    },
+    {
+      "path": "automotive/automotive-car-key-fob-3x2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/automotive/automotive-car-key-fob-3x2.webp",
+      "category": "automotive",
+      "kind": "object",
+      "aspect": "3x2",
+      "descriptor": "car-key-fob"
+    },
+    {
+      "path": "automotive/automotive-giant-car-fob-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/automotive/automotive-giant-car-fob-16x9.webp",
+      "category": "automotive",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-car-fob"
+    },
+    {
+      "path": "automotive/automotive-giant-car-key-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/automotive/automotive-giant-car-key-16x9.webp",
+      "category": "automotive",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-car-key"
+    },
+    {
+      "path": "automotive/automotive-sedan-showroom-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/automotive/automotive-sedan-showroom-16x9.webp",
+      "category": "automotive",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "sedan-showroom"
+    },
+    {
+      "path": "automotive/automotive-showroom-sedan-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/automotive/automotive-showroom-sedan-9x16.webp",
+      "category": "automotive",
+      "kind": "object",
+      "aspect": "9x16",
+      "descriptor": "showroom-sedan"
+    },
+    {
+      "path": "banking/banking-hall-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-hall-16x9-2.webp",
+      "category": "banking",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "hall"
+    },
+    {
+      "path": "banking/banking-hall-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-hall-16x9.webp",
+      "category": "banking",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "hall"
+    },
+    {
+      "path": "banking/banking-lobby-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-lobby-16x9-2.webp",
+      "category": "banking",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "lobby"
+    },
+    {
+      "path": "banking/banking-lobby-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-lobby-16x9.webp",
+      "category": "banking",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "lobby"
+    },
+    {
+      "path": "banking/banking-lobby-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-lobby-1x1.webp",
+      "category": "banking",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "lobby"
+    },
+    {
+      "path": "banking/banking-researcher-bank-vault-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-researcher-bank-vault-1x1.webp",
+      "category": "banking",
+      "kind": "researcher",
+      "aspect": "1x1",
+      "descriptor": "researcher-bank-vault"
+    },
+    {
+      "path": "banking/banking-vault-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-vault-1x1.webp",
+      "category": "banking",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "vault"
+    },
+    {
+      "path": "banking/banking-vault-door-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-vault-door-16x9-2.webp",
+      "category": "banking",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "vault-door"
+    },
+    {
+      "path": "banking/banking-vault-door-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/banking/banking-vault-door-16x9.webp",
+      "category": "banking",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "vault-door"
+    },
+    {
+      "path": "beauty/beauty-giant-lipstick-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-giant-lipstick-16x9-2.webp",
+      "category": "beauty",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-lipstick"
+    },
+    {
+      "path": "beauty/beauty-giant-lipstick-16x9-3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-giant-lipstick-16x9-3.webp",
+      "category": "beauty",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-lipstick"
+    },
+    {
+      "path": "beauty/beauty-giant-lipstick-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-giant-lipstick-16x9.webp",
+      "category": "beauty",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-lipstick"
+    },
+    {
+      "path": "beauty/beauty-giant-lipstick-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-giant-lipstick-1x1.webp",
+      "category": "beauty",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-lipstick"
+    },
+    {
+      "path": "beauty/beauty-red-lipstick-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-red-lipstick-16x9.webp",
+      "category": "beauty",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "red-lipstick"
+    },
+    {
+      "path": "beauty/beauty-red-lipstick-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-red-lipstick-1x1-2.webp",
+      "category": "beauty",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "red-lipstick"
+    },
+    {
+      "path": "beauty/beauty-red-lipstick-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-red-lipstick-1x1.webp",
+      "category": "beauty",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "red-lipstick"
+    },
+    {
+      "path": "beauty/beauty-researcher-lipstick-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-researcher-lipstick-1x1.webp",
+      "category": "beauty",
+      "kind": "researcher",
+      "aspect": "1x1",
+      "descriptor": "researcher-lipstick"
+    },
+    {
+      "path": "beauty/beauty-salon-interior-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-salon-interior-9x16.webp",
+      "category": "beauty",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "salon-interior"
+    },
+    {
+      "path": "beauty/beauty-salon-mirror-stations-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-salon-mirror-stations-1x1.webp",
+      "category": "beauty",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "salon-mirror-stations"
+    },
+    {
+      "path": "beauty/beauty-salon-mirrors-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/beauty/beauty-salon-mirrors-16x9.webp",
+      "category": "beauty",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "salon-mirrors"
+    },
+    {
+      "path": "consumer/consumer-giant-smartphone-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-giant-smartphone-16x9.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-smartphone"
+    },
+    {
+      "path": "consumer/consumer-giant-smartphone-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-giant-smartphone-1x1-2.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-smartphone"
+    },
+    {
+      "path": "consumer/consumer-giant-smartphone-1x1-3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-giant-smartphone-1x1-3.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-smartphone"
+    },
+    {
+      "path": "consumer/consumer-giant-smartphone-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-giant-smartphone-1x1.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-smartphone"
+    },
+    {
+      "path": "consumer/consumer-giant-smartphone-9x16-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-giant-smartphone-9x16-2.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "9x16",
+      "descriptor": "giant-smartphone"
+    },
+    {
+      "path": "consumer/consumer-giant-smartphone-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-giant-smartphone-9x16.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "9x16",
+      "descriptor": "giant-smartphone"
+    },
+    {
+      "path": "consumer/consumer-researcher-retro-television-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-researcher-retro-television-1x1.webp",
+      "category": "consumer",
+      "kind": "researcher",
+      "aspect": "1x1",
+      "descriptor": "researcher-retro-television"
+    },
+    {
+      "path": "consumer/consumer-retro-living-room-9x16-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-retro-living-room-9x16-2.webp",
+      "category": "consumer",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "retro-living-room"
+    },
+    {
+      "path": "consumer/consumer-retro-living-room-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-retro-living-room-9x16.webp",
+      "category": "consumer",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "retro-living-room"
+    },
+    {
+      "path": "consumer/consumer-vintage-television-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-vintage-television-16x9-2.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "vintage-television"
+    },
+    {
+      "path": "consumer/consumer-vintage-television-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-vintage-television-16x9.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "vintage-television"
+    },
+    {
+      "path": "consumer/consumer-vintage-television-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-vintage-television-1x1.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "vintage-television"
+    },
+    {
+      "path": "consumer/consumer-vintage-tv-console-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/consumer/consumer-vintage-tv-console-16x9.webp",
+      "category": "consumer",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "vintage-tv-console"
+    },
+    {
+      "path": "cpg/cpg-aluminum-can-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-aluminum-can-1x1-2.webp",
+      "category": "cpg",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "aluminum-can"
+    },
+    {
+      "path": "cpg/cpg-aluminum-can-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-aluminum-can-1x1.webp",
+      "category": "cpg",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "aluminum-can"
+    },
+    {
+      "path": "cpg/cpg-bottling-production-line-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-bottling-production-line-16x9.webp",
+      "category": "cpg",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "bottling-production-line"
+    },
+    {
+      "path": "cpg/cpg-cardboard-box-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-cardboard-box-16x9.webp",
+      "category": "cpg",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "cardboard-box"
+    },
+    {
+      "path": "cpg/cpg-cardboard-box-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-cardboard-box-1x1.webp",
+      "category": "cpg",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "cardboard-box"
+    },
+    {
+      "path": "cpg/cpg-general-store-counter-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-general-store-counter-1x1.webp",
+      "category": "cpg",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "general-store-counter"
+    },
+    {
+      "path": "cpg/cpg-giant-soda-can-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-giant-soda-can-16x9.webp",
+      "category": "cpg",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-soda-can"
+    },
+    {
+      "path": "cpg/cpg-giant-soda-can-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-giant-soda-can-1x1-2.webp",
+      "category": "cpg",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-soda-can"
+    },
+    {
+      "path": "cpg/cpg-giant-soda-can-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-giant-soda-can-1x1.webp",
+      "category": "cpg",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-soda-can"
+    },
+    {
+      "path": "cpg/cpg-grocery-register-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-grocery-register-9x16.webp",
+      "category": "cpg",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "grocery-register"
+    },
+    {
+      "path": "cpg/cpg-researchers-cardboard-box-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-researchers-cardboard-box-1x1.webp",
+      "category": "cpg",
+      "kind": "researcher",
+      "aspect": "1x1",
+      "descriptor": "researchers-cardboard-box"
+    },
+    {
+      "path": "cpg/cpg-soda-can-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/cpg/cpg-soda-can-16x9.webp",
+      "category": "cpg",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "soda-can"
+    },
+    {
+      "path": "fintech/fintech-coffee-wallet-cards-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-coffee-wallet-cards-9x16.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "9x16",
+      "descriptor": "coffee-wallet-cards"
+    },
+    {
+      "path": "fintech/fintech-credit-card-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-credit-card-16x9.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "credit-card"
+    },
+    {
+      "path": "fintech/fintech-credit-card-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-credit-card-1x1-2.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "credit-card"
+    },
+    {
+      "path": "fintech/fintech-credit-card-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-credit-card-1x1.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "credit-card"
+    },
+    {
+      "path": "fintech/fintech-desk-wallet-coffee-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-desk-wallet-coffee-16x9.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "desk-wallet-coffee"
+    },
+    {
+      "path": "fintech/fintech-giant-credit-card-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-giant-credit-card-16x9-2.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-credit-card"
+    },
+    {
+      "path": "fintech/fintech-giant-credit-card-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-giant-credit-card-16x9.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-credit-card"
+    },
+    {
+      "path": "fintech/fintech-giant-credit-card-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-giant-credit-card-1x1-2.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-credit-card"
+    },
+    {
+      "path": "fintech/fintech-giant-credit-card-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-giant-credit-card-1x1.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-credit-card"
+    },
+    {
+      "path": "fintech/fintech-giant-payment-card-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-giant-payment-card-1x1.webp",
+      "category": "fintech",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-payment-card"
+    },
+    {
+      "path": "fintech/fintech-researcher-credit-card-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/fintech/fintech-researcher-credit-card-16x9.webp",
+      "category": "fintech",
+      "kind": "researcher",
+      "aspect": "16x9",
+      "descriptor": "researcher-credit-card"
+    },
+    {
+      "path": "foodbev/foodbev-city-diner-counter-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/foodbev/foodbev-city-diner-counter-9x16.webp",
+      "category": "foodbev",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "city-diner-counter"
+    },
+    {
+      "path": "foodbev/foodbev-diner-counter-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/foodbev/foodbev-diner-counter-16x9.webp",
+      "category": "foodbev",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "diner-counter"
+    },
+    {
+      "path": "foodbev/foodbev-diner-counter-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/foodbev/foodbev-diner-counter-1x1.webp",
+      "category": "foodbev",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "diner-counter"
+    },
+    {
+      "path": "foodbev/foodbev-diner-counter-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/foodbev/foodbev-diner-counter-9x16.webp",
+      "category": "foodbev",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "diner-counter"
+    },
+    {
+      "path": "healthcare/healthcare-clinic-waiting-room-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-clinic-waiting-room-16x9.webp",
+      "category": "healthcare",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "clinic-waiting-room"
+    },
+    {
+      "path": "healthcare/healthcare-clinic-waiting-room-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-clinic-waiting-room-1x1.webp",
+      "category": "healthcare",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "clinic-waiting-room"
+    },
+    {
+      "path": "healthcare/healthcare-first-aid-case-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-first-aid-case-16x9-2.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "first-aid-case"
+    },
+    {
+      "path": "healthcare/healthcare-first-aid-case-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-first-aid-case-16x9.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "first-aid-case"
+    },
+    {
+      "path": "healthcare/healthcare-giant-capsule-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-giant-capsule-16x9.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-capsule"
+    },
+    {
+      "path": "healthcare/healthcare-giant-first-aid-case-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-giant-first-aid-case-1x1.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-first-aid-case"
+    },
+    {
+      "path": "healthcare/healthcare-giant-pill-capsule-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-giant-pill-capsule-16x9.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-pill-capsule"
+    },
+    {
+      "path": "healthcare/healthcare-giant-pill-capsule-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-giant-pill-capsule-1x1.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-pill-capsule"
+    },
+    {
+      "path": "healthcare/healthcare-giant-stethoscope-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-giant-stethoscope-16x9.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-stethoscope"
+    },
+    {
+      "path": "healthcare/healthcare-giant-stethoscope-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-giant-stethoscope-1x1.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-stethoscope"
+    },
+    {
+      "path": "healthcare/healthcare-medical-case-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-medical-case-1x1.webp",
+      "category": "healthcare",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "medical-case"
+    },
+    {
+      "path": "healthcare/healthcare-researchers-giant-pill-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/healthcare/healthcare-researchers-giant-pill-1x1.webp",
+      "category": "healthcare",
+      "kind": "researcher",
+      "aspect": "1x1",
+      "descriptor": "researchers-giant-pill"
+    },
+    {
+      "path": "misc/misc-birds-doves-flock-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/misc/misc-birds-doves-flock-16x9.webp",
       "category": "misc",
-      "sub": "",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "birds-doves-flock"
     },
     {
-      "path": "LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_13-56-36.webp",
+      "path": "misc/misc-birds-releasing-doves-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/misc/misc-birds-releasing-doves-16x9.webp",
       "category": "misc",
-      "sub": "",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "birds-releasing-doves"
     },
     {
-      "path": "_travel/_researchers/image-1-16x9.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_travel/_researchers/image-1-4x5.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "4x5"
-    },
-    {
-      "path": "_travel/_researchers/image-2-16x9.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_travel/_researchers/image-2-1x1.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_researchers/image-3-16x9.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_travel/_researchers/image-3-1x1.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_researchers/image-4-16x9.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_travel/_researchers/image-4-1x1.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_researchers/image-5-16x9.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_travel/_researchers/image-5-1x1.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_researchers/image-6-16x9.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_travel/_researchers/image-6-1x1.webp",
-      "category": "travel",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_airline-environment/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_05-27-40.webp",
-      "category": "travel",
-      "sub": "airline-environment",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_travel/_airline-environment/LL Environment Images_TL 1x1_2026-06-23_05-28-13.webp",
-      "category": "travel",
-      "sub": "airline-environment",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_airline-environment/LL Environment Images_TR 1x1_2026-06-23_05-28-16.webp",
-      "category": "travel",
-      "sub": "airline-environment",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_hotel-environment/LL Environment Images_BL 1x1_2026-06-23_15-39-03.webp",
-      "category": "travel",
-      "sub": "hotel-environment",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_hotel-environment/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-38-41.webp",
-      "category": "travel",
-      "sub": "hotel-environment",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_travel/_hotel-environment/LL Environment Images_TL 1x1_2026-06-23_15-39-07.webp",
-      "category": "travel",
-      "sub": "hotel-environment",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_travel/_hotel-environment/LL Environment Images_TR 1x1_2026-06-23_15-39-19.webp",
-      "category": "travel",
-      "sub": "hotel-environment",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_realestate/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-47-00.webp",
-      "category": "realestate",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-47-20.webp",
-      "category": "realestate",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-47-25.webp",
-      "category": "realestate",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-50-56.webp",
-      "category": "realestate",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_environments/LL Environment Images_TL 1x1_2026-06-23_15-48-05.webp",
-      "category": "realestate",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_realestate/_environments/LL Environment Images_TR 1x1_2026-06-23_15-48-09.webp",
-      "category": "realestate",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-59-37.webp",
-      "category": "realestate",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-59-43.webp",
-      "category": "realestate",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-59-57.webp",
-      "category": "realestate",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-03-44.webp",
-      "category": "realestate",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-05-43.webp",
-      "category": "realestate",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-05-47.webp",
-      "category": "realestate",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_realestate/_researchers/LL Research Images_TL 16x9_2026-06-24_05-53-02.webp",
-      "category": "realestate",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_realestate/_researchers/LL Research Images_TL 1x1_2026-06-24_05-53-15.webp",
-      "category": "realestate",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_healthcare/image-1-16x9.webp",
-      "category": "healthcare",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_healthcare/image-1-1x1.webp",
-      "category": "healthcare",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_healthcare/image-2-16x9.webp",
-      "category": "healthcare",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_healthcare/image-2-1x1.webp",
-      "category": "healthcare",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_healthcare/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-33-50.webp",
-      "category": "healthcare",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_healthcare/_environments/LL Environment Images_TL 1x1_2026-06-23_15-33-33.webp",
-      "category": "healthcare",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_healthcare/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-14-28.webp",
-      "category": "healthcare",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_healthcare/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-14-32.webp",
-      "category": "healthcare",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_healthcare/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-37-15.webp",
-      "category": "healthcare",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_healthcare/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-37-20.webp",
-      "category": "healthcare",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_healthcare/_researchers/LL Research Images_TL 16x9_2026-06-24_05-13-30.webp",
-      "category": "healthcare",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_healthcare/_researchers/LL Research Images_TL 1x1_2026-06-24_05-13-40.webp",
-      "category": "healthcare",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_foodbev/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_0010 copy.webp",
-      "category": "foodbev",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_foodbev/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_0010.webp",
-      "category": "foodbev",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_foodbev/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-22_18-39-02.webp",
-      "category": "foodbev",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_foodbev/_environments/LL Environment Images_TL 1x1_2026-06-22_18-39-27.webp",
-      "category": "foodbev",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_automotive/_researchers/image-3-16x9.webp",
-      "category": "automotive",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_automotive/_researchers/image-4-16x9.webp",
-      "category": "automotive",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_automotive/_researchers/image-4-1x1.webp",
-      "category": "automotive",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_automotive/_researchers/image-5-1x1.webp",
-      "category": "automotive",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_automotive/_researchers/image-6-16x9.webp",
-      "category": "automotive",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_automotive/_researchers/image-6-1x1.webp",
-      "category": "automotive",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_automotive/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_05-36-47.webp",
-      "category": "automotive",
-      "sub": "environment",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_automotive/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_05-37-09.webp",
-      "category": "automotive",
-      "sub": "environment",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_music/image-1-16x9.webp",
+      "path": "music/music-mixing-console-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/music/music-mixing-console-16x9.webp",
       "category": "music",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "16x9"
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "mixing-console"
     },
     {
-      "path": "_music/image-1-1x1.webp",
+      "path": "music/music-recording-studio-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/music/music-recording-studio-1x1.webp",
       "category": "music",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "1x1"
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "recording-studio"
     },
     {
-      "path": "_music/image-2-16x9.webp",
+      "path": "music/music-vinyl-record-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/music/music-vinyl-record-16x9.webp",
       "category": "music",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "16x9"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "vinyl-record"
     },
     {
-      "path": "_music/image-2-1x1.webp",
+      "path": "music/music-vinyl-record-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/music/music-vinyl-record-1x1.webp",
       "category": "music",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "1x1"
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "vinyl-record"
     },
     {
-      "path": "_banking/_researchers/LL Research Images_TL 16x9_2026-06-23_17-12-20.webp",
-      "category": "banking",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_banking/_researchers/LL Research Images_TL 1x1_2026-06-23_17-12-09.webp",
-      "category": "banking",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_banking/_researchers/LL Research Images_TR 16x9_2026-06-23_17-12-30.webp",
-      "category": "banking",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_banking/_researchers/LL Research Images_TR 1x1_2026-06-23_17-12-25.webp",
-      "category": "banking",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_banking/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_0006 copy 2.webp",
-      "category": "banking",
-      "sub": "environment",
+      "path": "oracle/oracle-birds-migration-4x3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-birds-migration-4x3.webp",
+      "category": "oracle",
       "kind": "environment",
-      "aspect": "unknown"
+      "aspect": "4x3",
+      "descriptor": "birds-migration"
     },
     {
-      "path": "_banking/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_0006 copy.webp",
-      "category": "banking",
-      "sub": "environment",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_banking/_environment/LL Environment Images_ChatGPT Images 2.0 Edit_0006.webp",
-      "category": "banking",
-      "sub": "environment",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_banking/_environment/image-1.webp",
-      "category": "banking",
-      "sub": "environment",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_banking/_environment/image-2.webp",
-      "category": "banking",
-      "sub": "environment",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_oracle/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_14-21-50.webp",
+      "path": "oracle/oracle-city-model-block-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-city-model-block-16x9.webp",
       "category": "oracle",
-      "sub": "",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "city-model-block"
+    },
+    {
+      "path": "oracle/oracle-clinicians-birds-4x3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-clinicians-birds-4x3.webp",
+      "category": "oracle",
       "kind": "researcher",
-      "aspect": "unknown"
+      "aspect": "4x3",
+      "descriptor": "clinicians-birds"
     },
     {
-      "path": "_oracle/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_14-27-39.webp",
+      "path": "oracle/oracle-fingerprint-mark-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-fingerprint-mark-16x9.webp",
       "category": "oracle",
-      "sub": "",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "fingerprint-mark"
+    },
+    {
+      "path": "oracle/oracle-giant-fingerprint-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-giant-fingerprint-16x9.webp",
+      "category": "oracle",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-fingerprint"
+    },
+    {
+      "path": "oracle/oracle-researchers-fingerprint-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-researchers-fingerprint-16x9.webp",
+      "category": "oracle",
       "kind": "researcher",
-      "aspect": "unknown"
+      "aspect": "16x9",
+      "descriptor": "researchers-fingerprint"
     },
     {
-      "path": "_oracle/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_14-31-56.webp",
+      "path": "oracle/oracle-researchers-fingerprint-editorial-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-researchers-fingerprint-editorial-16x9.webp",
       "category": "oracle",
-      "sub": "",
       "kind": "researcher",
-      "aspect": "unknown"
+      "aspect": "16x9",
+      "descriptor": "researchers-fingerprint-editorial"
     },
     {
-      "path": "_oracle/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_14-33-25.webp",
+      "path": "oracle/oracle-roman-amphitheater-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-roman-amphitheater-16x9.webp",
       "category": "oracle",
-      "sub": "",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "roman-amphitheater"
+    },
+    {
+      "path": "oracle/oracle-starling-hillside-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-starling-hillside-16x9.webp",
+      "category": "oracle",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "starling-hillside"
+    },
+    {
+      "path": "oracle/oracle-starling-murmuration-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-starling-murmuration-16x9.webp",
+      "category": "oracle",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "starling-murmuration"
+    },
+    {
+      "path": "oracle/oracle-topographic-map-wall-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/oracle/oracle-topographic-map-wall-16x9.webp",
+      "category": "oracle",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "topographic-map-wall"
+    },
+    {
+      "path": "realestate/realestate-atrium-lounge-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-atrium-lounge-9x16.webp",
+      "category": "realestate",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "atrium-lounge"
+    },
+    {
+      "path": "realestate/realestate-giant-golden-key-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-giant-golden-key-16x9.webp",
+      "category": "realestate",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-golden-key"
+    },
+    {
+      "path": "realestate/realestate-giant-house-key-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-giant-house-key-16x9.webp",
+      "category": "realestate",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-house-key"
+    },
+    {
+      "path": "realestate/realestate-giant-house-key-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-giant-house-key-1x1.webp",
+      "category": "realestate",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-house-key"
+    },
+    {
+      "path": "realestate/realestate-giant-key-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-giant-key-16x9-2.webp",
+      "category": "realestate",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-key"
+    },
+    {
+      "path": "realestate/realestate-giant-key-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-giant-key-16x9.webp",
+      "category": "realestate",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-key"
+    },
+    {
+      "path": "realestate/realestate-giant-key-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-giant-key-1x1.webp",
+      "category": "realestate",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-key"
+    },
+    {
+      "path": "realestate/realestate-giant-key-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-giant-key-9x16.webp",
+      "category": "realestate",
+      "kind": "object",
+      "aspect": "9x16",
+      "descriptor": "giant-key"
+    },
+    {
+      "path": "realestate/realestate-loft-living-room-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-loft-living-room-9x16.webp",
+      "category": "realestate",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "loft-living-room"
+    },
+    {
+      "path": "realestate/realestate-lounge-patio-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-lounge-patio-9x16.webp",
+      "category": "realestate",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "lounge-patio"
+    },
+    {
+      "path": "realestate/realestate-midcentury-living-room-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-midcentury-living-room-16x9.webp",
+      "category": "realestate",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "midcentury-living-room"
+    },
+    {
+      "path": "realestate/realestate-midcentury-lounge-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-midcentury-lounge-1x1.webp",
+      "category": "realestate",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "midcentury-lounge"
+    },
+    {
+      "path": "realestate/realestate-midcentury-sunroom-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-midcentury-sunroom-1x1.webp",
+      "category": "realestate",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "midcentury-sunroom"
+    },
+    {
+      "path": "realestate/realestate-researchers-recording-key-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/realestate/realestate-researchers-recording-key-9x16.webp",
+      "category": "realestate",
       "kind": "researcher",
-      "aspect": "unknown"
+      "aspect": "9x16",
+      "descriptor": "researchers-recording-key"
     },
     {
-      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_14cf6f4d-4d33-49f5-b2d4-bb8a094772f9_3.webp",
-      "category": "oracle",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_1a8722f1-a9a8-489f-b443-6b29f9d73112_2.webp",
-      "category": "oracle",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_326aeed4-7726-4847-bab7-1b7a4ebe7a3e_0.webp",
-      "category": "oracle",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_32e7aa58-4812-4de9-8efa-f2eead480070_0.webp",
-      "category": "oracle",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_3ed3bae4-1794-429f-bee3-069392229d00_3.webp",
-      "category": "oracle",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_af3293ee-45cd-4bcb-b632-9b2e092779af_1.webp",
-      "category": "oracle",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_oracle/thedesignguyjon_Candid_crisp_detailed_high_fidelity_editorial_be36f457-aef1-4cd5-bad0-8b38bc223d82_2.webp",
-      "category": "oracle",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_retail/_environments/LL Environment Images_TL 1x1_2026-06-23_15-55-40.webp",
+      "path": "retail/retail-clothing-store-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/retail/retail-clothing-store-1x1.webp",
       "category": "retail",
-      "sub": "environments",
       "kind": "environment",
-      "aspect": "1x1"
+      "aspect": "1x1",
+      "descriptor": "clothing-store"
     },
     {
-      "path": "_retail/_environments/LL Environment Images_TR 1x1_2026-06-23_15-55-46.webp",
+      "path": "retail/retail-department-store-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/retail/retail-department-store-1x1.webp",
       "category": "retail",
-      "sub": "environments",
       "kind": "environment",
-      "aspect": "1x1"
+      "aspect": "1x1",
+      "descriptor": "department-store"
     },
     {
-      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-28-10.webp",
+      "path": "retail/retail-giant-sneaker-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/retail/retail-giant-sneaker-16x9-2.webp",
       "category": "retail",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-sneaker"
     },
     {
-      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-29-43.webp",
+      "path": "retail/retail-giant-sneaker-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/retail/retail-giant-sneaker-16x9.webp",
       "category": "retail",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-sneaker"
     },
     {
-      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-29-47.webp",
+      "path": "retail/retail-giant-sneaker-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/retail/retail-giant-sneaker-1x1.webp",
       "category": "retail",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-sneaker"
     },
     {
-      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-33-29.webp",
+      "path": "retail/retail-giant-sneaker-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/retail/retail-giant-sneaker-9x16.webp",
       "category": "retail",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "9x16",
+      "descriptor": "giant-sneaker"
     },
     {
-      "path": "_retail/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_06-34-11.webp",
+      "path": "retail/retail-high-top-sneaker-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/retail/retail-high-top-sneaker-1x1.webp",
       "category": "retail",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "high-top-sneaker"
     },
     {
-      "path": "_beauty/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-02-54.webp",
-      "category": "beauty",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_beauty/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-04-41.webp",
-      "category": "beauty",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_beauty/_environments/LL Environment Images_TL 1x1_2026-06-23_15-02-29.webp",
-      "category": "beauty",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_beauty/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-34-42.webp",
-      "category": "beauty",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_beauty/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-34-53.webp",
-      "category": "beauty",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_beauty/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-38-41.webp",
-      "category": "beauty",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_beauty/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-38-46.webp",
-      "category": "beauty",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_beauty/_researchers/LL Research Images_TL 16x9_2026-06-24_03-35-19.webp",
-      "category": "beauty",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_beauty/_researchers/LL Research Images_TL 1x1_2026-06-24_03-35-37.webp",
-      "category": "beauty",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_beauty/_researchers/LL Research Images_TR 16x9_2026-06-24_03-35-45.webp",
-      "category": "beauty",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_beauty/_researchers/LL Research Images_TR 1x1_2026-06-24_03-35-48.webp",
-      "category": "beauty",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_consumer/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-09-26.webp",
-      "category": "consumer",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-09-51.webp",
-      "category": "consumer",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-10-12.webp",
-      "category": "consumer",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-48-37.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-48-48.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-48-52.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-48-55.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-49-04.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-49-08.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-57-44.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_03-58-07.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_TL 16x9_2026-06-24_03-58-14.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_consumer/_researchers/LL Research Images_TL 1x1_2026-06-24_03-58-17.webp",
-      "category": "consumer",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_signature/image-1-16x9.webp",
+      "path": "signature/signature-reel-tape-deck-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/signature/signature-reel-tape-deck-16x9.webp",
       "category": "signature",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "16x9"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "reel-tape-deck"
     },
     {
-      "path": "_signature/image-1-16x9b.webp",
+      "path": "signature/signature-reel-tape-machine-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/signature/signature-reel-tape-machine-16x9.webp",
       "category": "signature",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "16x9"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "reel-tape-machine"
     },
     {
-      "path": "_signature/image-2-16x9.webp",
+      "path": "signature/signature-reel-tape-recorder-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/signature/signature-reel-tape-recorder-16x9.webp",
       "category": "signature",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "16x9"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "reel-tape-recorder"
     },
     {
-      "path": "_signature/image-3-16x9.webp",
+      "path": "signature/signature-tube-amplifier-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/signature/signature-tube-amplifier-16x9.webp",
       "category": "signature",
-      "sub": "",
-      "kind": "scene",
-      "aspect": "16x9"
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "tube-amplifier"
     },
     {
-      "path": "_fintech/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-22_18-24-03.webp",
-      "category": "fintech",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_fintech/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-22_18-26-21.webp",
-      "category": "fintech",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-57-02.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-58-35.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-01-17.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-03-53.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_05-04-12.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_TL 16x9_2026-06-24_05-02-52.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_TL 1x1_2026-06-24_05-02-49.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_TR 16x9_2026-06-24_04-57-45.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_fintech/_researchers/LL Research Images_TR 1x1_2026-06-24_04-57-41.webp",
-      "category": "fintech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_cpg/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-20-49.webp",
-      "category": "cpg",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_cpg/_environments/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_15-28-48.webp",
-      "category": "cpg",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_cpg/_environments/LL Environment Images_TL 1x1_2026-06-23_15-20-41.webp",
-      "category": "cpg",
-      "sub": "environments",
-      "kind": "environment",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-14-32.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-14-36.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-22-05.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-22-09.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_cpg/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_04-22-13.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
-    },
-    {
-      "path": "_cpg/_researchers/LL Research Images_TL 1x1_2026-06-24_04-27-12.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "1x1"
-    },
-    {
-      "path": "_cpg/_researchers/image-1-16x9.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "16x9"
-    },
-    {
-      "path": "_cpg/_researchers/image-1-4x5.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "4x5"
-    },
-    {
-      "path": "_cpg/_researchers/image-1-4x5b.webp",
-      "category": "cpg",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "4x5"
-    },
-    {
-      "path": "_tech/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_16-10-19.webp",
+      "path": "tech/tech-office-desks-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/tech/tech-office-desks-1x1.webp",
       "category": "tech",
-      "sub": "",
       "kind": "environment",
-      "aspect": "unknown"
+      "aspect": "1x1",
+      "descriptor": "office-desks"
     },
     {
-      "path": "_tech/LL Environment Images_ChatGPT Images 2.0 Edit_2026-06-23_16-10-24.webp",
+      "path": "tech/tech-open-office-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/tech/tech-open-office-16x9.webp",
       "category": "tech",
-      "sub": "",
       "kind": "environment",
-      "aspect": "unknown"
+      "aspect": "16x9",
+      "descriptor": "open-office"
     },
     {
-      "path": "_tech/LL Environment Images_TL 1x1_2026-06-23_16-10-00.webp",
+      "path": "tech/tech-open-office-desks-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/tech/tech-open-office-desks-16x9.webp",
       "category": "tech",
-      "sub": "",
       "kind": "environment",
-      "aspect": "1x1"
+      "aspect": "16x9",
+      "descriptor": "open-office-desks"
     },
     {
-      "path": "_tech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_16-02-38.webp",
+      "path": "tech/tech-researchers-server-rack-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/tech/tech-researchers-server-rack-16x9.webp",
       "category": "tech",
-      "sub": "researchers",
       "kind": "researcher",
-      "aspect": "unknown"
+      "aspect": "16x9",
+      "descriptor": "researchers-server-rack"
     },
     {
-      "path": "_tech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_16-02-49.webp",
+      "path": "tech/tech-server-rack-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/tech/tech-server-rack-1x1.webp",
       "category": "tech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "server-rack"
     },
     {
-      "path": "_tech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_16-03-11.webp",
+      "path": "tech/tech-server-rack-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/tech/tech-server-rack-9x16.webp",
       "category": "tech",
-      "sub": "researchers",
-      "kind": "researcher",
-      "aspect": "unknown"
+      "kind": "object",
+      "aspect": "9x16",
+      "descriptor": "server-rack"
     },
     {
-      "path": "_tech/_researchers/LL Research Images_ChatGPT Images 2.0 Edit_2026-06-24_16-03-18.webp",
+      "path": "tech/tech-server-rack-stack-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/tech/tech-server-rack-stack-16x9.webp",
       "category": "tech",
-      "sub": "researchers",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "server-rack-stack"
+    },
+    {
+      "path": "travel/travel-airport-lounge-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-airport-lounge-1x1-2.webp",
+      "category": "travel",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "airport-lounge"
+    },
+    {
+      "path": "travel/travel-airport-lounge-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-airport-lounge-1x1.webp",
+      "category": "travel",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "airport-lounge"
+    },
+    {
+      "path": "travel/travel-airport-terminal-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-airport-terminal-16x9.webp",
+      "category": "travel",
+      "kind": "environment",
+      "aspect": "16x9",
+      "descriptor": "airport-terminal"
+    },
+    {
+      "path": "travel/travel-bank-lobby-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-bank-lobby-1x1.webp",
+      "category": "travel",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "bank-lobby"
+    },
+    {
+      "path": "travel/travel-giant-suitcase-16x9-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-giant-suitcase-16x9-2.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-suitcase"
+    },
+    {
+      "path": "travel/travel-giant-suitcase-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-giant-suitcase-16x9.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "giant-suitcase"
+    },
+    {
+      "path": "travel/travel-giant-suitcase-1x1-2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-giant-suitcase-1x1-2.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-suitcase"
+    },
+    {
+      "path": "travel/travel-giant-suitcase-1x1-3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-giant-suitcase-1x1-3.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-suitcase"
+    },
+    {
+      "path": "travel/travel-giant-suitcase-1x1-4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-giant-suitcase-1x1-4.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-suitcase"
+    },
+    {
+      "path": "travel/travel-giant-suitcase-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-giant-suitcase-1x1.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "giant-suitcase"
+    },
+    {
+      "path": "travel/travel-hotel-bell-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-hotel-bell-16x9.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "hotel-bell"
+    },
+    {
+      "path": "travel/travel-hotel-lobby-9x16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-hotel-lobby-9x16.webp",
+      "category": "travel",
+      "kind": "environment",
+      "aspect": "9x16",
+      "descriptor": "hotel-lobby"
+    },
+    {
+      "path": "travel/travel-hotel-lobby-reception-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-hotel-lobby-reception-1x1.webp",
+      "category": "travel",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "hotel-lobby-reception"
+    },
+    {
+      "path": "travel/travel-hotel-reception-desk-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-hotel-reception-desk-1x1.webp",
+      "category": "travel",
+      "kind": "environment",
+      "aspect": "1x1",
+      "descriptor": "hotel-reception-desk"
+    },
+    {
+      "path": "travel/travel-hotel-service-bell-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-hotel-service-bell-1x1.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "1x1",
+      "descriptor": "hotel-service-bell"
+    },
+    {
+      "path": "travel/travel-researcher-red-suitcase-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-researcher-red-suitcase-16x9.webp",
+      "category": "travel",
       "kind": "researcher",
-      "aspect": "unknown"
+      "aspect": "16x9",
+      "descriptor": "researcher-red-suitcase"
+    },
+    {
+      "path": "travel/travel-researcher-yellow-suitcase-1x1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-researcher-yellow-suitcase-1x1.webp",
+      "category": "travel",
+      "kind": "researcher",
+      "aspect": "1x1",
+      "descriptor": "researcher-yellow-suitcase"
+    },
+    {
+      "path": "travel/travel-yellow-luggage-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-yellow-luggage-16x9.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "yellow-luggage"
+    },
+    {
+      "path": "travel/travel-yellow-suitcase-16x9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/MerlinAGI/listen-labs-brand-images@v2/travel/travel-yellow-suitcase-16x9.webp",
+      "category": "travel",
+      "kind": "object",
+      "aspect": "16x9",
+      "descriptor": "yellow-suitcase"
     }
   ]
 }
