@@ -1,7 +1,7 @@
 # Listen Labs — Brand Image Library
 
 Brand imagery for the Listen Labs slides skill: researcher portraits, environment
-scenes, signature imagery, and client logos, organized by industry.
+scenes, signature imagery, and logos, organized by industry.
 
 ## Usage (jsDelivr CDN)
 
